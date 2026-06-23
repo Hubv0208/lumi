@@ -1,2 +1,2 @@
-# little-feeder
+# lumi
 Baby feeding monitoring
